@@ -1,166 +1,174 @@
-<!-- SECTION G: VISITOR COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jishnuvardhankancharla2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
+<!-- SECTION G: VISITOR COUNTER & METRICS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jishnuvardhankancharla2005&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Instagram%20Followers-350-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Followers" />
+</p>
 
----
+<!-- SECTION A: SLEEK HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35,45&height=180&section=header&text=Jishnu%20Vardhan%20Kancharla&fontSize=32&fontColor=00d4ff&animation=twinkling" width="100%" />
+</p>
 
-<!-- SECTION A: ANIMATED HEADER -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Jishnu+Vardhan+%F0%9F%91%8B;Data+Scientist+%7C+DevOps+Engineer;Building+Intelligent+Systems;Automating+Everything+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  <strong>Welcome to my GitHub Universe!</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Jishnu+Vardhan+%F0%9F%91%8B;Data+Scientist+%7C+DevOps+Engineer;Building+Intelligent+Systems;Automating+Everything+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
 
 ---
 
 <!-- SECTION B: ABOUT ME -->
-
 ## 🧠 About Me
 
-> *"I don't just write code — I architect intelligence."*
-
-I'm **Jishnu Vardhan Kancharla**, a passionate **Data Scientist** and **DevOps Engineer** who thrives at the intersection of AI, automation, and cloud infrastructure. I love turning raw data into real decisions, and raw pipelines into bulletproof systems.
-
-- 🚀 **Freshly minted** in the industry, but thinking light-years ahead
-- 🤖 Obsessed with **LLMs, Generative AI**, and the future of intelligent systems
-- 🛠️ I automate everything — if I do something twice, I script it on the third
-- 📸 Content creator on **Instagram** & **LinkedIn** — sharing tech journeys and insights
-- 🌱 Currently exploring **MLOps**, **multi-agent AI systems**, and **cloud-native architectures**
-- ⚡ Fun fact: I debug production issues faster than I decide what to eat for lunch 🍕
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I'm <b>Jishnu Vardhan Kancharla</b>, a passionate <b>Data Scientist</b> and <b>DevOps Engineer</b> working at the intersection of AI, automation, and cloud infrastructure. I specialize in translating complex datasets into intelligent actions and building resilient deployment pipelines.</p>
+      <ul>
+        <li>🚀 <b>Fresh Industry Perspective:</b> Equipped with modern skills and ready to ship production solutions.</li>
+        <li>🤖 <b>AI Obsession:</b> Specialized in Large Language Models (LLMs), Generative AI, and Autonomous Multi-Agent Swarms.</li>
+        <li>🛠️ <b>Automation Fanatic:</b> If I have to do something more than twice, there's a Python or Bash script running it the third time.</li>
+        <li>📸 <b>Tech Evangelist:</b> Creator on Instagram & LinkedIn sharing insights on MLOps, DevOps, and AI.</li>
+        <li>🌱 <b>Currently Mastering:</b> Advanced MLOps frameworks, Kubernetes scaling, and cloud-native system design.</li>
+        <li>⚡ <b>Fun Fact:</b> I debug pipeline YAML configs faster than I decide what toppings to put on my pizza! 🍕</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- SECTION C: TECH STACK -->
-
+<!-- SECTION C: TECH STACK & TOOLS -->
 ## 🛠️ Tech Stack & Tools
 
-### 🐍 Languages & AI/ML
-<div align="center">
+<details open>
+<summary><b>🐍 Data Science & AI/ML</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+</details>
 
-</div>
-
-### ☁️ Cloud & Infrastructure
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-### ⚙️ DevOps & CI/CD
-<div align="center">
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-</div>
-
----
-
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%40hey__itz__mr.jishnu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hey_itz_mr.jishnu)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jishnu%20Vardhan%20Kancharla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnu-vardhan-kancharla-90170032b)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-jishnuvardhankancharla2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jishnuvardhankancharla2005)
-
-</div>
-
-<div align="center">
-
-![Instagram Followers](https://img.shields.io/badge/Instagram%20Followers-350-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-</div>
+<details open>
+<summary><b>⚙️ DevOps, MLOps & CI/CD</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+</details>
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
+<!-- SECTION D: PROJECTS PORTFOLIO Showcase -->
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jishnuvardhankancharla2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jishnuvardhankancharla2005&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnuvardhankancharla2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="50%" alt="Top Languages"/>
-
-</div>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=jishnuvardhankancharla2005&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Autonomous Multi-Agent AI System</h3>
+      <p>An experimental swarm architecture using LangGraph and AutoGen to automatically coordinate between data analysts and deployment agents for self-healing pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Production-Grade MLOps Pipeline</h3>
+      <p>Continuous training and delivery pipeline integrating DVC, MLflow, and GitHub Actions, deploying model inference services on AWS ECS using Terraform.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- SECTION E: GITHUB STATS & TROPHIES DASHBOARD -->
+## 📊 GitHub Analytics
 
-## 📈 Contribution Graph
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=jishnuvardhankancharla2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jishnuvardhankancharla2005&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnuvardhankancharla2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-trophy.vercel.app/?username=jishnuvardhankancharla2005&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jishnuvardhankancharla2005&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+### 📈 Contribution Activity
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jishnuvardhankancharla2005&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+---
+
+<!-- SECTION F: SOCIALS -->
+## 🌐 Let's Connect & Build Together!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jishnu-vardhan-kancharla-90170032b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hey_itz_mr.jishnu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jishnuvardhankancharla2005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <!-- SECTION H: FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35,45&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great%20together%20🚀&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%" />
+</p>
 
-## 🤝 Let's Connect & Build Together!
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 📸 **Instagram** | [@hey_itz_mr.jishnu](https://www.instagram.com/hey_itz_mr.jishnu) |
-| 💼 **LinkedIn** | [Jishnu Vardhan Kancharla](https://www.linkedin.com/in/jishnu-vardhan-kancharla-90170032b) |
-| 🐙 **GitHub** | [jishnuvardhankancharla2005](https://github.com/jishnuvardhankancharla2005) |
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20great%20together%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%" />
-</div>
-
-<div align="center">
+<p align="center">
   <i>⭐️ From <a href="https://github.com/jishnuvardhankancharla2005">Jishnu Vardhan Kancharla</a> — Keep learning, keep shipping! 🚀</i>
-</div>
+</p>
